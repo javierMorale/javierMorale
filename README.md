@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://beacons.ai/javierMorale">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javierMorale&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierMorale&layout=compact&langs_count=16&theme=gruvbox"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierMorale&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
 
 <div style="display: inline-block" ><br>
